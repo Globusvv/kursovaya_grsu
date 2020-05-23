@@ -1,0 +1,7 @@
+D:\гргу\курсач\Kursovaya_Vorobyev\bin\Debug\Kursovaya_Vorobyev.dll.config
+D:\гргу\курсач\Kursovaya_Vorobyev\bin\Debug\Kursovaya_Vorobyev.dll
+D:\гргу\курсач\Kursovaya_Vorobyev\bin\Debug\Kursovaya_Vorobyev.pdb
+D:\гргу\курсач\Kursovaya_Vorobyev\obj\Debug\Kursovaya_Vorobyev.csprojAssemblyReference.cache
+D:\гргу\курсач\Kursovaya_Vorobyev\obj\Debug\Kursovaya_Vorobyev.csproj.CoreCompileInputs.cache
+D:\гргу\курсач\Kursovaya_Vorobyev\obj\Debug\Kursovaya_Vorobyev.dll
+D:\гргу\курсач\Kursovaya_Vorobyev\obj\Debug\Kursovaya_Vorobyev.pdb

@@ -1,0 +1,11 @@
+D:\гргу\курсач\ChatHost\bin\Debug\ChatHost.exe.config
+D:\гргу\курсач\ChatHost\bin\Debug\ChatHost.exe
+D:\гргу\курсач\ChatHost\bin\Debug\ChatHost.pdb
+D:\гргу\курсач\ChatHost\bin\Debug\Kursovaya_Vorobyev.dll
+D:\гргу\курсач\ChatHost\bin\Debug\Kursovaya_Vorobyev.pdb
+D:\гргу\курсач\ChatHost\bin\Debug\Kursovaya_Vorobyev.dll.config
+D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.exe
+D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.pdb
