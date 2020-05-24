@@ -8,7 +8,7 @@ using System.Text;
 
 namespace Kursovaya_Vorobyev
 {
-    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single )]
+    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single )] // для того, чтобы сервис был единым для всех клиентов
     public class Service1 : IService1
     {
         List<ServerUser> users = new List<ServerUser>();
@@ -23,7 +23,7 @@ namespace Kursovaya_Vorobyev
                 operationContext = OperationContext.Current
             };
             nextid++;
-            SendMsg(user.Name+"'s entered chat",0);
+            SendMsg(" "+ user.Name+" entered the chat",0);
             users.Add(user);
             return user.ID;
         }
@@ -34,7 +34,7 @@ namespace Kursovaya_Vorobyev
             if (user!=null)
             {
                 users.Remove(user);
-                SendMsg(user.Name + "'s left chat",0);
+                SendMsg(" " + user.Name + " left the chat",0);
             }
         }
 
@@ -47,7 +47,7 @@ namespace Kursovaya_Vorobyev
                 var user = users.FirstOrDefault(i => i.ID == id);
                 if (user != null)
                 {
-                    answer += ": " + user.Name+" ";
+                    answer += ": " + user.Name+": ";
                 }
 
                 answer += msg;

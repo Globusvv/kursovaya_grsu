@@ -9,3 +9,14 @@ D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.ca
 D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
 D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.exe
 D:\гргу\курсач\ChatHost\obj\Debug\ChatHost.pdb
+D:\kursovaya_grsu\kursovaya\ChatHost\bin\Debug\Kursovaya_Vorobyev.dll
+D:\kursovaya_grsu\kursovaya\ChatHost\bin\Debug\Kursovaya_Vorobyev.pdb
+D:\kursovaya_grsu\kursovaya\ChatHost\bin\Debug\Kursovaya_Vorobyev.dll.config
+D:\kursovaya_grsu\kursovaya\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+D:\kursovaya_grsu\kursovaya\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\kursovaya_grsu\kursovaya\ChatHost\obj\Debug\ChatHost.exe
+D:\kursovaya_grsu\kursovaya\ChatHost\obj\Debug\ChatHost.pdb
+D:\kursovaya_grsu\kursovaya\ChatHost\bin\Debug\ChatHost.exe.config
+D:\kursovaya_grsu\kursovaya\ChatHost\bin\Debug\ChatHost.exe
+D:\kursovaya_grsu\kursovaya\ChatHost\bin\Debug\ChatHost.pdb
+D:\kursovaya_grsu\kursovaya\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete

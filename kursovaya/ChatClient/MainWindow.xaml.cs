@@ -76,6 +76,7 @@ namespace ChatClient
         public void MsgCallback(string msg)
         {
             lbChat.Items.Add(msg);
+            lbChat.ScrollIntoView(lbChat.Items[lbChat.Items.Count - 1]);
         }
 
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
@@ -96,7 +97,10 @@ namespace ChatClient
             }
         }
 
-        
+        private void tbMessage_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
   
 }
